@@ -1,4 +1,5 @@
-{{
+[
+	{
 		"type": "fshare_file",
 		"title": "Lucy",
 		"provider": "search4",
@@ -13,4 +14,4 @@
 		"thumb": "",
 		"desc": ""
 	}
-}
+]
