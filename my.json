@@ -1,6 +1,4 @@
-{
-	"id" : "root",
-	"items" : [{
+{{
 		"type": "fshare_file",
 		"title": "Lucy",
 		"provider": "search4",
@@ -14,5 +12,5 @@
 		"param": "http://www.fshare.vn/file/JS78AJKXPI5T",
 		"thumb": "",
 		"desc": ""
-	}]
+	}
 }
