@@ -3,14 +3,14 @@
 		"type": "fshare_file",
 		"title": "Lucy",
 		"provider": "search4",
-		"param": "http://www.fshare.vn/file/AJIQTPQC6L6T",
+		"param": "https://www.fshare.vn/file/AJIQTPQC6L6T",
 		"thumb": "",
 		"desc": ""
 	},{
 		"type": "fshare_file",
 		"title": "Lucy 2",
 		"provider": "search4",
-		"param": "http://www.fshare.vn/file/JS78AJKXPI5T",
+		"param": "https://www.fshare.vn/file/JS78AJKXPI5T",
 		"thumb": "",
 		"desc": ""
 	}
