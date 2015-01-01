@@ -1,30 +1,17 @@
 [
 	{
 		"type": "fshare_file",
-		"title": "Lucy",
-		"param": "https://www.fshare.vn/file/AJIQTPQC6L6T"
-	},{
-		"type": "fshare_file",
-		"title": "Lucy 2",
-		"param": "https://www.fshare.vn/file/T3DVY68ART"
-	},{
-		"type": "fshare_file",
 		"title": "The Equalizer 2014",
 		"param": "https://www.fshare.vn/file/8OGZBBBGZBCG"
 	},{
 		"type": "fshare_folder",
 		"provider": "fshare_folder",
 		"title": "Paris by night 102 DVD9",
-		"param": "https://www.fshare.vn/folder/TP3BD7MFMT"
+		"param": "http://www.fshare.vn/folder/TP3BD7MFMT"
 	},{
 		"type": "fshare_folder",
 		"provider": "fshare_folder",
-		"title": "Arrow 3 - Mũi Tên Xanh Phần 3",
-		"param": "https://www.fshare.vn/folder/T8AX6QQFMT"
-	},{
-		"type": "fshare_folder",
-		"provider": "fshare_folder",
-		"title": "Arrow 3",
-		"param": "http://www.fshare.vn/folder/T8AX6QQFMT"
+		"title": "Paris by night 111",
+		"param": "http://www.fshare.vn/folder/TZNZRQJVWT"
 	}
 ]
