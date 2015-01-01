@@ -21,5 +21,10 @@
 		"provider": "fshare_folder",
 		"title": "Arrow 3 - Mũi Tên Xanh Phần 3",
 		"param": "https://www.fshare.vn/folder/T8AX6QQFMT"
+	},{
+		"type": "fshare_folder",
+		"provider": "fshare_folder",
+		"title": "Arrow 3",
+		"param": "http://www.fshare.vn/folder/T8AX6QQFMT"
 	}
 ]
