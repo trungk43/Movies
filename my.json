@@ -12,7 +12,7 @@
 		"title": "The Equalizer 2014",
 		"param": "https://www.fshare.vn/file/8OGZBBBGZBCG"
 	},{
-		"type": "fshare_folder",
+		"provider": "fshare_folder",
 		"title": "Paris by night 102",
 		"param": "https://www.fshare.vn/folder/TP3BD7MFMT"
 	}
