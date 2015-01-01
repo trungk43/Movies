@@ -16,5 +16,10 @@
 		"provider": "fshare_folder",
 		"title": "Paris by night 102 DVD9",
 		"param": "https://www.fshare.vn/folder/TP3BD7MFMT"
+	},{
+		"type": "fshare_folder",
+		"provider": "fshare_folder",
+		"title": "Arrow 3 - Mũi Tên Xanh Phần 3",
+		"param": "https://www.fshare.vn/folder/T8AX6QQFMT"
 	}
 ]
