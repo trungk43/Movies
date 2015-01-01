@@ -17,5 +17,9 @@
 		"provider": "parser",
 		"title": "Video Karaoke MKV & VOB",
 		"param": "http://vietchiase.net/archive/index.php/t-880.html"
+	},{
+		"provider": "parser",
+		"title": "karaoke với chất lượng MKV",
+		"param": "http://playback.vn/forum/bai-viet/15380-Mot-kho-karaoke-voi-chat-luong-MKV-AVI-va-VOB-tim-duoc-tren-mang-Mot-kho-karaoke-voi-chat-luong-MKV-AVI-va-VOB-tim-duoc-tren-mang"
 	}
 ]
