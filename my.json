@@ -14,9 +14,25 @@
 		"title": "Paris by night 111",
 		"param": "http://www.fshare.vn/folder/TZNZRQJVWT"
 	},{
-		"provider": "parser",
-		"title": "Video Karaoke MKV & VOB",
-		"param": "http://vietchiase.net/archive/index.php/t-880.html"
+		"provider": "fvideo",
+		"title": "Haichonloc.fvideo",
+		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/Haichonloc.fvideo"
+	},{
+		"provider": "fvideo",
+		"title": "Nhacchonloc.fvideo",
+		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/Nhacchonloc.fvideo"
+	},{
+		"provider": "fvideo",
+		"title": "Phimchonloc.fvideo",
+		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/Phimchonloc.fvideo"
+	},{
+		"provider": "fvideo",
+		"title": "thuynga.fvideo",
+		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/thuynga.fvideo"
+	},{
+		"provider": "fvideo",
+		"title": "VanSon.fvideo",
+		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/VanSon.fvideo"
 	},{
 		"provider": "parser",
 		"title": "karaoke với chất lượng MKV",
