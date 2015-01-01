@@ -13,5 +13,9 @@
 		"provider": "fshare_folder",
 		"title": "Paris by night 111",
 		"param": "http://www.fshare.vn/folder/TZNZRQJVWT"
+	},{
+		"provider": "parser",
+		"title": "nhạc karaoke hay nhất nhạc trẻ",
+		"param": "http://vforum.vn/diendan/showthread.php?39882-Download-video-nha-c-karaoke-hay-nha-t-nha-c-tre-va-ng"
 	}
 ]
