@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"type": "fshare_file",
 		"title": "The Equalizer 2014",
@@ -37,5 +37,9 @@
 		"provider": "parser",
 		"title": "Thúy Nga Paris By Night 112",
 		"param": "http://www.vnit-zone.net/archive/index.php/t-188056.html"
+	},{
+		"provider": "parser",
+		"title": "SNSD Girls Generation",
+		"param": "http://www.vnit-zone.net/archive/index.php/t-15580.html"
 	}
 ]
