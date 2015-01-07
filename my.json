@@ -23,5 +23,9 @@
 		"provider": "vaphim",
 		"title": "Phim bộ Mỹ",
 		"param": "http://vaphim.com/category/phim-2/series/us-tv-series/"
+	},{
+		"provider": "vaphim",
+		"title": "Bộ sưu tập",
+		"param": "http://vaphim.com/category/collection/"
 	}
 ]
