@@ -1,19 +1,5 @@
 [
 	{
-		"type": "fshare_file",
-		"title": "The Equalizer 2014",
-		"param": "https://www.fshare.vn/file/8OGZBBBGZBCG"
-	},{
-		"type": "fshare_folder",
-		"provider": "fshare_folder",
-		"title": "Paris by night 102 DVD9",
-		"param": "http://www.fshare.vn/folder/TP3BD7MFMT"
-	},{
-		"type": "fshare_folder",
-		"provider": "fshare_folder",
-		"title": "Paris by night 111",
-		"param": "http://www.fshare.vn/folder/TZNZRQJVWT"
-	},{
 		"provider": "fvideo",
 		"title": "Haichonloc.fvideo",
 		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/Haichonloc.fvideo"
@@ -34,12 +20,8 @@
 		"title": "VanSon.fvideo",
 		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/VanSon.fvideo"
 	},{
-		"provider": "parser",
-		"title": "Thúy Nga Paris By Night 112",
-		"param": "http://www.vnit-zone.net/archive/index.php/t-188056.html"
-	},{
-		"provider": "parser",
-		"title": "SNSD Girls Generation",
-		"param": "http://www.vnit-zone.net/archive/index.php/t-15580.html"
+		"provider": "vaphim",
+		"title": "Phim bộ Mỹ",
+		"param": "http://vaphim.com/category/phim-2/series/us-tv-series/"
 	}
 ]
