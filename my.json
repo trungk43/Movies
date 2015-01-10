@@ -27,5 +27,13 @@
 		"provider": "vaphim",
 		"title": "Bộ sưu tập",
 		"param": "http://vaphim.com/category/collection/"
+ 	},{
+		"provider": "parser",
+		"title": "Paris By Night 112",
+		"param": "http://www.vnit-zone.net/archive/index.php/t-188056.html"
+	},{
+		"provider": "parser",
+		"title": "SNSD Girls Generation",
+		"param": "http://www.vnit-zone.net/archive/index.php/t-15580.html"
 	}
 ]
