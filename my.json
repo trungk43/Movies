@@ -1,37 +1,5 @@
 [
 	{
-		"provider": "fvideo",
-		"title": "Haichonloc.fvideo",
-		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/Haichonloc.fvideo"
-	},{
-		"provider": "fvideo",
-		"title": "Nhacchonloc.fvideo",
-		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/Nhacchonloc.fvideo"
-	},{
-		"provider": "fvideo",
-		"title": "Phimchonloc.fvideo",
-		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/Phimchonloc.fvideo"
-	},{
-		"provider": "fvideo",
-		"title": "thuynga.fvideo",
-		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/thuynga.fvideo"
-	},{
-		"provider": "fvideo",
-		"title": "VanSon.fvideo",
-		"param": "https://raw.githubusercontent.com/trungk43/Movies/master/VanSon.fvideo"
-	},{
-		"provider": "vaphim",
-		"title": "Phim bộ Mỹ",
-		"param": "http://vaphim.com/category/phim-2/series/us-tv-series/"
-	},{
-		"provider": "vaphim",
-		"title": "Bộ sưu tập",
-		"param": "http://vaphim.com/category/collection/"
- 	},{
-		"provider": "parser",
-		"title": "Paris By Night 112",
-		"param": "http://www.vnit-zone.net/archive/index.php/t-188056.html"
-	},{
 		"provider": "parser",
 		"title": "SNSD Girls Generation",
 		"param": "http://www.vnit-zone.net/archive/index.php/t-15580.html"
